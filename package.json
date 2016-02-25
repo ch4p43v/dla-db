@@ -1,0 +1,13 @@
+{
+  "name": "dla-db",
+  "version": "0.92.0",
+  "description": "File based database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "DLA Wares"
+  },
+  "license": "ISC"
+}
